@@ -1,4 +1,5 @@
 ##### 👋 Hi, I'm Hong Thi 
+##### 🌱 I'm a senior student which has major is Data Science in VNUHCM - HCMUS
 ##### 📫 How to reach me: nguyenthihongthi.230502@gmail.com
 
 <!--
